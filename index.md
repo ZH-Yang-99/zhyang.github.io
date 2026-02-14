@@ -27,7 +27,7 @@ I work in both Chinese and English.
 
 ## Chat with me
 
-**Dec 2025:** I have set up the [online-coffee-time] Feel free to reach out!
+**Dec 2024:** I have set up the [online-coffee-time] Feel free to reach out!
 
 **Address:** Room 601, School of Physics Science and Engineering, Tongji University <br>1239 Siping Road, Yangpu District, Shanghai
 
