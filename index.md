@@ -12,6 +12,7 @@ I am a Master in Cosmology, and my main research interests are Inflation, Prehea
 
 I am always open to academic discussions and potential collaborations. Please feel free to reach out to me at **2230985[at]tongji.edu.cn**
 
+I work in both Chinese and English.
 
 ## Conferences
 
