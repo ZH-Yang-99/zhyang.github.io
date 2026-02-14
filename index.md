@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="pl.jpg" alt="pl" width="150" height="150" />
 
 Here is **Zihao Yang**.<br>
 
